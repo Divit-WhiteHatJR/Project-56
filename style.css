@@ -1,0 +1,19 @@
+bocy{
+    text-align: center;
+    background-color: #f0e8c5;
+    font-family: cursive;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
